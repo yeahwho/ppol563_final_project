@@ -1,2 +1,2 @@
-# ppol563_final_project
+# America in the Past
 data visulization ppol fina project
